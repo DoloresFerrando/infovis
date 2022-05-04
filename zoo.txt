@@ -1,1 +1,43 @@
-poner palabras
+exabytes
+data more accessible and appealing
+engaging visualizations
+visual encodings
+graphical perception experiments
+design and aesthetics
+visualization zoo
+index chart
+stacked graph
+stream graphs
+overlapping curves
+small multiples
+Horizon graphs
+preserving resolution
+stem-and-leaf plot
+information-empty
+ Q-Q plots
+ scatter plot matrix SPLOM
+ Parallel coordinates
+ flow map
+ choropleth map
+ graduated symbol map
+ Cartograms
+ hierarchies
+ multi-scale inferences
+ micro-observations 
+ macro-observations
+ node-link diagram
+ dendrogram
+ multi-scale inferences
+ Adjacency diagrams
+ icicle
+ sunburst
+ Enclosure diagrams
+ jigsaw treemaps
+ network
+ force-directed layouts
+ jiggle nodes
+ arc diagram
+ seriation
+ adjacency matrix
+ giant hairballs
+ 
